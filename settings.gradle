@@ -1,0 +1,4 @@
+include ':tic_tac_toe'
+include ':common_module'
+include ':app'
+rootProject.name = "UltimateGames"

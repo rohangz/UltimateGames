@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UltimateGames</string>
+    <string name="app_home">Home</string>
+    <string name="app_profile">Profile</string>
+    <string name="app_games">Games</string>
+    <string name="app_retry">Retry</string>
+</resources>

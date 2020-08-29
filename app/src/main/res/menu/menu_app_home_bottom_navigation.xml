@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@id/homeFragment"
+        android:title="@string/app_home"
+        android:icon="@drawable/ic_app_home"
+        />
+
+    <item
+        android:id="@id/gamesFragment"
+        android:title="@string/app_games"
+        android:icon="@drawable/ic_app_games"
+        />
+
+
+</menu>
